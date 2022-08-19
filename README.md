@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **JavaScript , ReactJS**
 
-- 💬 Ask me about **CSS , Bootstrap**
-
 - 📫 How to reach me **kumawatrajat124@gmail.com**
 
 - ⚡ Fun fact **Bungee gum has properties of both rubber and gum**
