@@ -7,7 +7,7 @@
 
 - 🔭 Student of **IIIT Bhopal**
 
-- 🌱 I’m currently learning **JavaScript , ReactJS**
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
 - 📫 How to reach me **kumawatrajat124@gmail.com**
 
