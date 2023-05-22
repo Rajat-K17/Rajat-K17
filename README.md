@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - Sentiment analysis using machine learning<br>🌱 I’m currently learning - DSA<br>
+🔭 I’m currently working on - Sentiment analysis using machine learning<br>🌱 I’m currently learning - NLP<br>
 
 
 ## 🌐 Socials:
